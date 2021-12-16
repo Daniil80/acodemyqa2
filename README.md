@@ -16,7 +16,7 @@
 
 #####Here is a text from the Internet that also shows what other people think. And this is also true.
 > [7 Reasons to Work in IT](https://www.comptia.org/blog/7-reasons-to-work-in-it)
-> <img alt="Reason!" src="G:\IT\acodemy_qa2\reason-human-mind-pictured-as-word-inside-head-to-symbolize-relation-psyche-d-illustration-172326889.jpg"/>
+> ![Reason!](reason-human.jpg)
 
 ##My tasks for IT:
 - [x] **QA1** on [acodemy.lv](https://acodemy.lv/ru)
