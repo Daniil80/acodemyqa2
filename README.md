@@ -14,7 +14,7 @@
 *5 reason:*
 >It's good salary off course ))
 
-#####Here is a text from the Internet that also shows what other people think. And this is also true.
+##### Here is a text from the Internet that also shows what other people think. And this is also true.
 > [7 Reasons to Work in IT](https://www.comptia.org/blog/7-reasons-to-work-in-it)
 > ![Reason!](reason-human.jpg)
 
