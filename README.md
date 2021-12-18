@@ -18,7 +18,7 @@
 > [7 Reasons to Work in IT](https://www.comptia.org/blog/7-reasons-to-work-in-it)
 > ![Reason!](reason-human.jpg)
 
-##My tasks for IT:
+## My tasks for IT:
 - [x] **QA1** on [acodemy.lv](https://acodemy.lv/ru)
 - [ ] **QA2 Automation** on [acodemy.lv](https://acodemy.lv/ru)
 - [ ] **English** language with tutor on [preply.com](https://preply.com/)
